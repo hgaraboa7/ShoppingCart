@@ -1,3 +1,1 @@
-# ShoppingCart
-
-pequeño ejercicio de un lista de la compra
+Proyecto de app de un carro de la compra sencillo

@@ -1,0 +1,18 @@
+<resources>
+        <string name="app_name">Carro de Compra</string>
+        <string name="title_activity_main">Actividad Principal</string>
+        <string name="menu_main_delete">Eliminar Todos</string>
+        <string name="menu_main_send">Enviar a Pagar</string>
+        <string name="menu_main_buy">COMPRAR</string>
+        <string name="menu_main_product">Producto: </string>
+        <string name="menu_main_amount">Cantidad: </string>
+        <string name="payment_confirmation_title">Confirmación de Pago</string>
+        <string name="payment_confirmation_message">¿Está seguro de que desea enviar el carrito a pagar?</string>
+        <string name="payment_confirmation_button">Aceptar</string>
+        <string name="payment_deny_button">Cancelar</string>
+        <string name="toast_products_sent">Productos enviados a pagar</string>
+        <string name="radio_english">Inglés</string>
+        <string name="radio_spanish">Español</string>
+        <string name="menu_contextual_delete">Eliminar</string>
+
+</resources>
